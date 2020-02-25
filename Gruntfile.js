@@ -2,7 +2,7 @@ module.exports = function (grunt) {
 	grunt.initConfig({
 	  csslint: {
 		  options: {
-			  csslintrc: '.csslintrc'
+			  csslintrc: './.csslintrc'
 			},
 			src: ['*.css']
 		}
