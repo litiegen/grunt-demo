@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/litiegen/grunt-demo#readme",
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-spritesmith": "^6.5.1"
+    "grunt": "^1.0.1"
   }
 }
